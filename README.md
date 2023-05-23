@@ -1,4 +1,4 @@
-## Peetcode
+## Peetcode-MK
 It's an online algorithmic problem solving platform. Built as a joke during the full stack assignments by Harkirat Singh.
 No intention of building this into a business.
 
